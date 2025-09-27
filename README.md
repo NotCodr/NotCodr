@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I’m [Your Name]
+# 👋 I go by NotCodr
 
 🎓 **BCom student (Finance & Management)** at [Your Uni], based in **Melbourne, Australia**  
 📊 Aspiring **Data Analyst / Consultant** | 💡 Entrepreneurial Mindset | 🌱 Passion for **data-driven decision making**
