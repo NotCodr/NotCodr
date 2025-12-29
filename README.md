@@ -2,7 +2,7 @@
 
 # 👋 I go by NotCodr
 
-🎓 **BCom student (Finance & Management)** at [Your Uni], based in **Melbourne, Australia**  
+🎓 **BCom student (Finance & Management)** at The University of Melbourne, based in **Melbourne, Australia**  
 📊 Aspiring **Data Analyst / Consultant** | 💡 Entrepreneurial Mindset | 🌱 Passion for **data-driven decision making**
 
 ---
@@ -51,8 +51,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
-
-## ⚡ Fun Facts
-- I brainstorm creative product ideas (compact windproof umbrella, rugged pencil for builders).  
-- Big believer in **People, Planet, Profit** → sustainability matters.  
-- I see data as a **bridge between business strategy and real-world impact**.
