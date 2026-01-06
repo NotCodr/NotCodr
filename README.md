@@ -2,8 +2,8 @@
 
 # 👋 I go by NotCodr
 
-🎓 **BCom student (Finance & Management)** at The University of Melbourne, based in **Melbourne, Australia**  
-📊 Aspiring **Data Analyst / Consultant** | 💡 Entrepreneurial Mindset | 🌱 Passion for **data-driven decision making**
+🎓 **BCom student (Finance & Economics)** at The University of Melbourne, based in **Melbourne, Australia**  
+📊 Aspiring **Financial and Data Analyst / Consultant** | 💡 Entrepreneurial Mindset | 🌱 Passion for **data-driven decision making**
 
 ---
 
