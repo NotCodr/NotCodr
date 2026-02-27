@@ -26,22 +26,16 @@
 ---
 
 ## 🚀 Featured Projects
-- **[Melbourne Small Business Resilience Dashboard](#)**  
-  Interactive dashboard + consulting-style deck analyzing Melbourne’s sector resilience (2019–2025).  
-  *Tech:* Python, Plotly, pandas  
 
-- **Nonprofit Finance Insights (Volunteer Analytics)** *(planned)*  
-  Partner with a local nonprofit to clean messy donor/event data and deliver insights + dashboards.  
-
-- **Where2? App (Startup Concept)**  
+- **Where2? App (Startup)**  
   Social planning app with AI-driven recommendations, interactive maps, and frictionless “two-tap” decisioning.  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced SQL & analytics engineering  
-- Storytelling with data (consulting-style decks)  
-- ML basics: regression, classification, clustering  
+- SQL 
+- Storytelling with data  
+- ML basics
 
 ---
 
