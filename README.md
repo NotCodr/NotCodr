@@ -6,13 +6,25 @@
 </p>
 
 <p>
-  Future founder. Currently shipping a social-planning startup, an agentic AI assistant for UniMelb,
+  I combine Business and Development to create the solutions that . Currently shipping a social-planning startup, an agentic AI assistant for UniMelb,
   and a fintech web app. I care about products that real people use — not demos.
 </p>
 
 ---
 
 ### What I'm building
+
+---
+
+#### 🧠 Delegate &nbsp;·&nbsp; Founder &amp; Builder &nbsp;·&nbsp; <sub><i>stealth</i></sub>
+An agentic AI knowledge layer for project teams in a high-stakes vertical (will be revealed soon). Solving the "human FAQ" problem — where senior engineers spend hours per day answering questions stakeholders should be able to ask the system directly. Role-aware, multi-party, designed for the messy reality of how decisions actually get made. 
+
+- 🎯 Targeting **20+ hours/week** reclaimed per senior manager per project
+- 🔒 Role-based information disclosure — every stakeholder sees what they're authorised to, phrased for their role
+- ⚙️ **Sonnet 4.6** · **n8n** · **Pinecone** · **Supabase** (Postgres + auth + RLS) · **Next.js** · **Vercel**
+- 🚧 In active development, more coming in 2-3 weeks
+
+`stealth · DM for details`
 
 #### 🐻 [BarryAI](https://www.barryai.online) &nbsp;·&nbsp; Founder &amp; Strategic Lead
 An agentic AI student assistant for the UniMelb Faculty of Business &amp; Economics. Lives inside a working replica of the UoM portal — not a chatbot on a blank page. Live web search, persistent memory, four languages, embedded campus maps, governance against jailbreaks and prompt extraction.
