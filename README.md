@@ -32,7 +32,7 @@ An agentic AI knowledge layer for project teams in a high-stakes vertical (will 
 `stealth · DM for details`
 
 #### 🐻 [BarryAI](https://www.barryai.online) &nbsp;·&nbsp; Founder &amp; Strategic Lead
-An agentic AI student assistant for the UniMelb Faculty of Business &amp; Economics. Lives inside a working replica of the UoM portal — not a chatbot on a blank page. Live web search, persistent memory, four languages, embedded campus maps, governance against jailbreaks and prompt extraction.
+An agentic AI student assistant proposed for the UniMelb Faculty of Business &amp; Economics. Lives inside a working replica of the UoM portal, not just a chatbot on a blank page. Live web search, persistent memory, four languages, embedded campus maps, governance against jailbreaks and prompt extraction.
 
 - 🥉 Top-3 submission, FBE 2026 academic year
 - 📈 Pitched to Directors, Dean &amp; FBE leadership; potential rollout to **8,000+ students**
