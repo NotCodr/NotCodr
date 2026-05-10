@@ -12,7 +12,7 @@ My Focus is on Data Analytics, Agentic Systems and Business Development.
 
 <p>
 I combine Business and Software Development to create the solutions that are built quickly but scale as required. Currently shipping a social-planning startup, an agentic AI assistant for UniMelb,
-and a Agentic AI solution for a enterprise. I care about problems that need to be solved, I alter my approach and stack according to the types of clients that I encounter, so that I make solutions that people use and benefit from. At the end of the day, all of this complex jargon is just so poeple can save their time and money, so thats where I start first :) 
+and a agentic AI solution for a enterprise in the Hyper-scale AI data center market; a rapidly growing sector in Australia. I care about problems that need to be solved, I alter my approach and stack according to the types of clients that I encounter, so that I make solutions that people use and benefit from. At the end of the day, all of this complex jargon is just so poeple can save their time and money, so thats where I start first :) 
 </p>
 
 ---
