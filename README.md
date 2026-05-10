@@ -21,7 +21,7 @@ An agentic AI knowledge layer for project teams in a high-stakes vertical (will 
 
 - 🎯 Targeting **20+ hours/week** reclaimed per senior manager per project
 - 🔒 Role-based information disclosure — every stakeholder sees what they're authorised to, phrased for their role
-- ⚙️ **Sonnet 4.6** · **n8n** · **Pinecone** · **Supabase** (Postgres + auth + RLS) · **Next.js** · **Vercel**
+- ⚙️ **Sonnet 4.6** · decidng between **LangGraph or Vercel AI SDK** · **Pinecone** · **Supabase** (Postgres + auth + RLS) · **Next.js** · **Vercel**
 - 🚧 In active development, more coming in 2-3 weeks
 
 `stealth · DM for details`
