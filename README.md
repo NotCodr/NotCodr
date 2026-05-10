@@ -25,8 +25,8 @@ and a Agentic AI solution for a enterprise. I care about problems that need to b
 An agentic AI knowledge layer for project teams in a high-stakes vertical (will be revealed soon). Solving the "human FAQ" problem — where senior engineers spend hours per day answering questions stakeholders should be able to ask the system directly. Role-aware, multi-party, designed for the messy reality of how decisions actually get made. 
 
 - 🎯 Targeting **20+ hours/week** reclaimed per senior manager per project
-- 🔒 Role-based information disclosure — every stakeholder sees what they're authorised to, phrased for their role
-- ⚙️ **Sonnet 4.6** · decidng between **LangGraph or Vercel AI SDK** · **Pinecone** · **Supabase** (Postgres + auth + RLS) · **Next.js** · **Vercel**
+- 🔒 Role-based information disclosure. Every stakeholder sees what they're authorised to, phrased for their role
+- ⚙️ **Sonnet 4.6** · decidng between **Vercel AI SDK** · **Pinecone** · **Supabase** (Postgres + auth + RLS) · **Next.js** · **Vercel**
 - 🚧 In active development, more coming in 2-3 weeks
 
 `stealth · DM for details`
@@ -47,7 +47,7 @@ An agentic AI student assistant for the UniMelb Faculty of Business &amp; Econom
 A social planning app with frictionless "two-tap" decisioning — built so groups stop arguing about where to go. Co-leading a cross-functional team to ship MVP for 1,000 beta users / 100 DAU within 90 days of launch.
 
 - 🎬 Pitch advanced to **MEC Student Startup Semi-Finals**
-- 💬 30+ user interviews → validated product spec
+- 💬 30+ user interviews, with validated product specs
 - 🚀 Applied to **Y Combinator · Antler · Startmate** (pre-seed, $500K target)
 - 📐 Figma + React Native MVP, prepped for 100–500 usability sessions
 - 🤝 Iterative feedback from 6 MEC judges across 15–20 events
@@ -56,7 +56,7 @@ A social planning app with frictionless "two-tap" decisioning — built so group
 ---
 
 #### 📊 VibeMarket (https://vibe-market-by-sri.vercel.app/sign-in) &nbsp;·&nbsp; Solo Developer
-Full-stack financial-analysis web app — built solo in 4 weeks. Replaces hours of spreadsheet work per ticker with sub-second insight generation for retail investors.
+Full-stack financial-analysis web app, built solo in 4 weeks. Replaces hours of spreadsheet work per ticker with sub-second insights for retail investors.
 
 - 🌐 50,000+ global equities, single UI
 - 📈 6+ live KPIs computed from raw statements (EBITDA, EV, OCF, FCF, RoE, …)
