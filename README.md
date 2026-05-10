@@ -32,7 +32,7 @@ An agentic AI student assistant for the UniMelb Faculty of Business &amp; Econom
 - 🥉 Top-3 submission, FBE 2026 academic year
 - 📈 Pitched to Directors, Dean &amp; FBE leadership; potential rollout to **8,000+ students**
 - 🎯 Targeting **15× reduction** in Stop1 support-ticket volume on deployment
-- ⚙️ React · Vite · Tailwind · Base44 · frontier reasoning model w/ web search
+- ⚙️ React · Vite · Tailwind · Base44SDK · frontier reasoning model w/ web search
 
 `MVP live → www.barryai.online`
 
