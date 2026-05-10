@@ -99,23 +99,15 @@ A crypto market screener &amp; terminal with live feeds, streaming prices, and s
 - 🎓 **Peer Mentor**, UoM — selected to mentor 15 first-years through a 5-week data-driven curriculum I designed from a 10-question intake survey
 - 💼 **Business Development Consultant** at CommonSpace Australia — produced 40-page market analysis, validated $22M AUD TAM for client launch strategy
 
----
-
-### GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotCodr&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotCodr&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
 ---
 
-### Reach me
+### Profiles
 
 <p>
-  
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sri-vish-51b03a377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/NotCodr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  
+  <a href="mailto:sriram.vishwanath@dscubed.org.au"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <sub><i>Always shipping. Always iterating. Open to chats about product, AI, and zero-to-one.</i></sub>
