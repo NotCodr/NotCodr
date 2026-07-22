@@ -12,7 +12,7 @@ My Focus is on Data Analytics, Agentic Systems and Business Development.
 
 <p>
 I combine Business and Software Development to create the solutions that are built quickly but scale as required. Currently shipping a social-planning startup, an agentic AI assistant for UniMelb,
-and a agentic AI solution for a enterprise in the Hyper-scale AI data center market; a rapidly growing sector in Australia. I care about problems that need to be solved, I alter my approach and stack according to the types of clients that I encounter, so that I make solutions that people use and benefit from. At the end of the day, all of this complex jargon is just so poeple can save their time and money, so thats where I start first :) 
+and a agentic AI solution for a enterprise in the Hyper-scale AI data center market; a rapidly growing sector in Australia. I care about problems that need to be solved, I alter my approach and stack according to the types of clients that I encounter, so that I make solutions that people use and benefit from. At the end of the day, all of this complex jargon is just so people can save their time and money, so thats where I start first :) 
 </p>
 
 ---
@@ -24,20 +24,17 @@ and a agentic AI solution for a enterprise in the Hyper-scale AI data center mar
 #### 🧠 Delegate &nbsp;·&nbsp; Founder &amp; Builder &nbsp;·&nbsp; <sub><i>stealth</i></sub>
 An agentic AI knowledge layer for project teams in a high-stakes vertical (will be revealed soon). Solving the "human FAQ" problem — where senior engineers spend hours per day answering questions stakeholders should be able to ask the system directly. Role-aware, multi-party, designed for the messy reality of how decisions actually get made. 
 
-- 🎯 Targeting **20+ hours/week** reclaimed per senior manager per project
 - 🔒 Role-based information disclosure. Every stakeholder sees what they're authorised to, phrased for their role
-- ⚙️ **Sonnet 4.6** · decidng between **Claude AI SDK or Vercel AI SDK** · **Pinecone** · **Supabase** · **Next.js** · **Vercel**
-- 🚧 In active development, more coming in 2-3 weeks
+- 🚧 In active development, more coming in August 2026
 
 `stealth · DM for details`
 
 #### 🐻 [BarryAI](https://www.barryai.online) &nbsp;·&nbsp; Founder &amp; Strategic Lead
 An agentic AI student assistant proposed for the UniMelb Faculty of Business &amp; Economics. Lives inside a working replica of the UoM portal, not just a chatbot on a blank page. Live web search, persistent memory, four languages, embedded campus maps, governance against jailbreaks and prompt extraction.
 
-- 🥉 Top-3 submission, FBE 2026 academic year
 - 📈 Pitched to Directors, Dean &amp; FBE leadership; potential rollout to **8,000+ students**
 - 🎯 Targeting **15× reduction** in Stop1 support-ticket volume on deployment
-- ⚙️ React · Vite · Tailwind · Base44SDK · frontier reasoning model w/ web search
+- ⚙️ React · Vite · Tailwind · Anthropic SDK · frontier reasoning model w/ web search
 
 `MVP live → www.barryai.online`
 
