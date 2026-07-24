@@ -1,12 +1,12 @@
 <h1>This is Sri, aka NotCodr</h1>
 
 <p>
-  <strong>Building products, shipping fast.</strong><br/>
+  <strong>Building solutions that matter.</strong><br/>
   BCom (Finance &amp; Economics) @ University of Melbourne · Melbourne, AU
 </p>
 
 <p>
-My Focus is on Data Analytics, Agentic Systems and Business Development.
+My Focus is on Startups, Agentic Systems and Consulting.
 </p>
 
 
