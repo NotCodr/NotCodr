@@ -39,9 +39,15 @@ An agentic AI student assistant proposed for the UniMelb Faculty of Business &am
 
 `MVP live → www.barryai.online`
 
+#### [Connect3](https://www.connect3.dev) &nbsp;·&nbsp; Founder &amp; Strategic Lead
+An AI student club assistant and grant management plaform to simplify the creation, storage and retrival of grants for student clubs who are tired of doing it manually!
+
+- 📈 Upcoming Pitch to Business Analytics Student Society
+- 📈 Pitching Pitch to BusinessOne
+
 ---
 
-#### 📍 Where2 &nbsp;·&nbsp; Co-Founder &amp; Product
+#### 📍 Where2 &nbsp;·&nbsp; Ex Co-Founder &amp; Product
 A social planning app with frictionless "two-tap" decisioning — built so groups stop arguing about where to go. Co-leading a cross-functional team to ship MVP for 1,000 beta users / 100 DAU within 90 days of launch.
 
 - 🎬 Pitch advanced to **MEC Student Startup Semi-Finals**
