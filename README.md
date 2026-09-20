@@ -22,11 +22,11 @@ and a agentic AI solution for a enterprise in the Hyper-scale AI data center mar
 ---
 
 #### 🧠 Delegate &nbsp;·&nbsp; Founder &amp; Builder &nbsp;·&nbsp; <sub><i>stealth</i></sub>
-An agentic AI knowledge layer for project teams in a high-stakes vertical (will be revealed soon). Solving the "human FAQ" problem — where senior engineers spend hours per day answering questions stakeholders should be able to ask the system directly. Role-aware, multi-party, designed for the messy reality of how decisions actually get made. 
+An agentic AI knowledge and executing layer for project teams in data center vertical.  
 
-- 🚧 In active development, more coming in August 2026.
-- Website launch: August
-- Hiring: Latter Q3 2026
+- MVP creation: Complete
+- Website launch: Complete
+- Hiring: TBD
 
 `stealth · DM for details`
 
