@@ -39,7 +39,7 @@ An agentic AI student assistant proposed for the UniMelb Faculty of Business &am
 
 `MVP live → www.barryai.online`
 
-#### [Connect3](https://www.connect3.dev) &nbsp;·&nbsp; Founder &amp; Strategic Lead
+#### [Connect3](https://www.connect3.dev) &nbsp;·&nbsp;
 An AI student club assistant and grant management plaform to simplify the creation, storage and retrival of grants for student clubs who are tired of doing it manually!
 
 - 📈 Upcoming Pitch to Business Analytics Student Society
