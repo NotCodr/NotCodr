@@ -21,7 +21,7 @@ and a agentic AI solution for a enterprise in the Hyper-scale AI data center mar
 
 ---
 
-#### 🧠 [Delegate](https://delegateau.vercel.app/) &nbsp;·&nbsp; Founder &amp; Builder &nbsp;·&nbsp; <sub><i>stealth</i></sub>
+#### 🧠 [Delegate](https://www.delegateau.com) &nbsp;·&nbsp; Founder &amp; Builder &nbsp;·&nbsp; <sub><i>stealth</i></sub>
 An agentic AI knowledge and executing layer for project teams in data center vertical.  
 
 - MVP creation: Complete
