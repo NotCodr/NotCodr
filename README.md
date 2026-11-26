@@ -35,6 +35,8 @@ InvestoHub Hackathon winning Idea
 
 - MVP creation: Under 2hours
 - FinTech app for Investor Relations teams to leverage their share registry to make informed decisions and predictions on how much Capital can be raised in a given period, based on shareholder metrics and high networth individuals
+- also see: #### 🧠 [BartonHub](https://www.bartonhub.com) &nbsp;·&nbsp; Solo Developer &nbsp;·&nbsp; 
+Investor Relations demo center for ASX and LSE listed companies
 
 - React Native · TypeScript · ASX API 
 
