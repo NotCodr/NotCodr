@@ -17,74 +17,107 @@ and a agentic AI solution for a enterprise in the Hyper-scale AI data center mar
 
 ---
 
-### What I'm building
+### What I've worked on
 
-</div>
-Delegate
+---
 
-<sub>Founder · TypeScript · Next.js · PostgreSQL</sub>
+#### 🧠 [Delegate](https://www.delegateau.com) &nbsp;·&nbsp; Founder &amp; Builder &nbsp;·&nbsp; <sub><i>stealth</i></sub>
+An agentic AI knowledge and executing layer for project teams in data center vertical.  
 
-Commissioning evidence for hyperscale data centre construction. A data centre cannot be energised until every test is evidenced with a photograph, and every photograph has to be matched to the exact test line it proves. My project has over 100,000 of those lines.
+- MVP creation: Complete
+- Website launch: Complete
+- Hiring: TBD
 
-I did that matching by hand for months. Then I built this.
+`stealth stack'
 
-Deployed on a live 54 MW hyperscale build since July 2026, in use on site by a practising senior commissioning engineer. 126 releases, built and shipped solo.
+#### 🥇 [Runway &nbsp;·&nbsp; Founder &amp; Builder &nbsp;·&nbsp; <sub><i>stealth</i></sub>
+InvestoHub Hackathon winning Idea  
 
-<br/>
-Connect3
+- MVP creation: Under 2hours
+- FinTech app for Investor Relations teams to leverage their share registry to make informed decisions and predictions on how much Capital can be raised in a given period, based on shareholder metrics and high networth individuals
 
-<sub>Contributor · grant automation</sub>
+- React Native · TypeScript · ASX API 
 
-Grant management for student clubs. Creating, storing and retrieving grant records without a spreadsheet and a lot of hope. I contributed to the grant automation side of the product.
+#### 🐻 [BarryAI](https://www.barryai.online) &nbsp;·&nbsp; Founder &amp; Strategic Lead
+An agentic AI student assistant proposed for the UniMelb Faculty of Business &amp; Economics. Lives inside a working replica of the UoM portal, not just a chatbot on a blank page. Live web search, persistent memory, four languages, embedded campus maps, governance against jailbreaks and prompt extraction.
 
-I'm also Partnerships Officer at DSCubed, running outreach and helping deliver student events across UniMelb and UWA.
+- 📈 Pitched to Directors, Dean &amp; FBE leadership; potential rollout to **8,000+ students**
+- 🎯 Targeting **15× reduction** in Stop1 support-ticket volume on deployment
+- ⚙️ React · Vite · Tailwind · Anthropic SDK · frontier reasoning model w/ web search
 
-<br/> <div align="center">
-Previously
-</div>
-BarryAI
+`MVP live → www.barryai.online`
 
-<sub>Founder & Strategic Lead · React · Vite · Tailwind · Anthropic SDK</sub>
+#### [Connect3](https://www.connect3.app) (https://www.connect3.dev) &nbsp;·&nbsp;
+An AI student club assistant and grant management plaform to simplify the creation, storage and retrival of grants for student clubs who are tired of doing it manually!
 
-An agentic AI assistant for the UniMelb Faculty of Business and Economics, built inside a working replica of the university portal rather than sitting on a blank chat page. Live web search, persistent memory, four languages, embedded campus maps, and governance against jailbreaks and prompt extraction.
+- 📈 Upcoming Pitch to Business Analytics Student Society
+- 📈 Upcoming Pitch to BusinessOne
 
-Used by 500+ students
-Presented to the Dean, Directors and Faculty leadership, leading to discussions with Student and Scholarly Services
-Selected by the Faculty as its student panellist at an AI event alongside Lucy Liu, co-founder of Airwallex
-<br/>
-VibeMarket
+---
 
-<sub>Solo · Next.js · TypeScript · Tailwind · MongoDB · Vercel</sub>
+#### 📍 Where2 &nbsp;·&nbsp; Ex Co-Founder &amp; Product
+A social planning app with frictionless "two-tap" decisioning — built so groups stop arguing about where to go. Co-leading a cross-functional team to ship MVP for 1,000 beta users / 100 DAU within 90 days of launch.
 
-A full-stack equity analysis app, built solo in four weeks, replacing hours of spreadsheet work per ticker with something you can read in a second.
+- 🎬 Pitch advanced to **MEC Student Startup Semi-Finals**
+- 💬 30+ user interviews, with validated product specs
+- 🚀 Applied to **Y Combinator · Antler · Startmate** (pre-seed, $500K target)
+- 📐 Figma + React Native MVP, prepped for 100–500 usability sessions
+- 🤝 Iterative feedback from 6 MEC judges across 15–20 events
+- React Native · TypeScript · Supabase · Expo · SQL
 
-50,000+ global tickers in a single interface
-Six financial metrics computed live from raw statements: EBITDA, EV, OCF, FCF, RoE and more
-An Investometer buy, sell or hold signal drawn from six live market parameters
-<br/>
-DeCrypt
+---
 
-<sub>Solo · live feeds · sub-second refresh</sub>
+#### 📊 VibeMarket (https://vibe-market-by-sri.vercel.app/sign-in) &nbsp;·&nbsp; Solo Developer (my first project ever)
+Full-stack financial-analysis web app, built solo in 4 weeks. Replaces hours of spreadsheet work per ticker with sub-second insights for retail investors.
 
-A crypto market screener and terminal built for people who need to watch a move happen, not read about it five minutes later.
+- 🌐 50,000+ global equities, single UI
+- 📈 6+ live KPIs computed from raw statements (EBITDA, EV, OCF, FCF, RoE, …)
+- 🎯 Psychographic onboarding → recommendations personalised by risk profile
+- 📡 "Investometer" — live Buy / Sell / Hold from 6 real-time market parameters
+- ⚙️ Next.js · TypeScript · Tailwind · MongoDB · Vercel
 
-Momentum and volatility discovery across roughly 18,900 cryptocurrencies
-Candlestick charts and on-chain trade prints, ranked by risk and price signals
-<br/>
-Where2
+---
 
-<sub>Co-founder, exited · React Native · TypeScript · Supabase · Expo</sub>
+#### 🪙 [DeCrypt](https://github.com/NotCodr/DeCryptApp) &nbsp;·&nbsp; Solo Developer 
+A crypto market screener &amp; terminal with live feeds, streaming prices, and sub-second UI refresh — built for traders who need to spot fluctuations in real time, not on a 5-minute lag.
 
-A social planning app with two-tap decisioning, built so groups stop arguing about where to go.
+- 📡 Live feeds + streaming trades · sub-second UI refresh
+- 📊 Momentum &amp; volatility discovery dashboard across **~18,900 cryptocurrencies**
+- 🔬 Deep-dive analytics — candlestick charts + on-chain trade prints, prioritised by risk/price KPIs
+- 🛠️ Currently building solo
 
-Advanced to the MEC Student Startup Semi-Finals
-30+ user interviews behind the product spec
-<br/> <div align="center">
-Stack
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+### Stack
 
-<br/><br/>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-<sub><i>Always creating. Always iterating.</i></sub>
+---
 
-</div>
+### Beyond the code
+
+- 🧠 **Partnerships Officer** at [Connect3 / DSCubed](https://dscubed.org.au) 
+- 💼 **FP&A Intern** at Minerva Partners
+
+---
+
+### Profiles
+
+<p>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sri-vish-51b03a377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/NotCodr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sriram.vishwanath@dscubed.org.au"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<sub><i>Always creating. Always iterating. </i></sub>
