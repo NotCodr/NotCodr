@@ -30,7 +30,7 @@ An agentic AI knowledge and executing layer for project teams in data center ver
 
 stealth stack
 
-#### 🥇 Runway &nbsp;·&nbsp; Hackathon &amp; Winner &nbsp;·&nbsp;
+#### 🥇 Runway &nbsp;·&nbsp; 1st Place; Hackathon &nbsp;·&nbsp;
 InvestoHub Hackathon winning Idea  
 
 - MVP creation: Under 2hours
